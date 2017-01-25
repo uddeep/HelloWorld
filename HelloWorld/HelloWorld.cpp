@@ -8,6 +8,7 @@ int main()
 {
 	std::cout << "Hello World!\n";
 	std::cout << "Hello World2!\n";
+	printf("Conor McCormick");
 	return 0;
 }
 
