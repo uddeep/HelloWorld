@@ -7,6 +7,7 @@
 int main()
 {
 	std::cout << "Hello World!\n";
+	std::cout << "Steve Cap\n";
 	std::cout << "Hello World2!\n";
 	return 0;
 }
