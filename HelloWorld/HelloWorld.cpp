@@ -8,6 +8,10 @@ int main()
 {
 	std::cout << "Hello World!\n";
 	std::cout << "Hello World2!\n";
+	
+	// 27 Jan 17 Update B Chase
+	std::cout << "Brian Chase\n";
+
 	return 0;
 }
 
