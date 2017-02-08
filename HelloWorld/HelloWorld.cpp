@@ -8,6 +8,10 @@ int main()
 {
 	std::cout << "Hello World!\n";
 	std::cout << "Hello World2!\n";
+	
+	//2-7-17 ESW
+	//This prints out my name
+	std::cout << "Eric Wenzke\n";
 	return 0;
 }
 
